@@ -1,0 +1,11 @@
+Windows 10 Enterprise ESD to ISO using Media Creation Tool
+
+#1 Download the Media Creation Tool
+
+#2 Run the Media Creation Tool in the console with the following options
+/Console /Eula accept /Retail /MediaLangCode en-us /MediaArch x64  /MediaEdition Enterprise
+
+#3 When prompted enter in the KMS key for Windows 10 Enterprise
+NPPR9-FWDCX-D2C8J-H872K-2YT43
+
+#4 It is self-explanatory after entering the key.
